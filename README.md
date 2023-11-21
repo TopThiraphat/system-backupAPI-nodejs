@@ -12,11 +12,11 @@
     - compressing 
     - fs 
     - node-fetch
+    - ฯลฯ
 
 
 ## Get Started
-
-Install project with npm
+1. install project with npm
 
 ```bash
   cd backupAPI-nodejs
