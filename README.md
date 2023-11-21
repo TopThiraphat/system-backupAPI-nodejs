@@ -29,9 +29,6 @@ Install project with npm
 ![App Screenshot](./Screenshots/2023-11-21_13-48.png)
 
 
-## Demo
-![Blog](https://img.shields.io/website?color=B71D25&style=flat-square&up_message=Demo&url=https%3A%2F%2Fmikkipastel.com)
-
 ## Used By
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/TopThiraphat)
 
