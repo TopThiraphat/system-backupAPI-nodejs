@@ -1,6 +1,6 @@
-# backupfileAPI-nodejs
-- เป็นระบบ backup file API จาก Link url โดยแปลงไฟล์ให้เป็น XML
-- ระบบจะ backup file API ทุกๆ 2 นาที 
+# backupAPI-nodejs
+- เป็นระบบ backup API จาก Link url โดยแปลงไฟล์ให้เป็น XML
+- ระบบจะ backup API ทุกๆ 2 นาที 
 - เมื่อครบวันเวลาที่กำหนด ระบบจะ compress เป็น .zip ให้อัตโนมัติ 
 - แสดงผล output ทาง Terminal
 
