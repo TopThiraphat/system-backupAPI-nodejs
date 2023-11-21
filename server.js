@@ -13,6 +13,9 @@ const directoryLinkForBackup = "link";
 const folderDirectory = "./file";
 const removeFile = 28;
 const timeBackup = 60000;
+// 60000 milliseconds = 1 minute
+// 600000 milliseconds = 10 minutes
+// 3600000 milliseconds = 60 minutes
 
 // Check for directory
 console.log(

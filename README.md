@@ -1,6 +1,6 @@
 # backupAPI-nodejs
 - เป็นระบบ backup API จาก Link url โดยแปลงไฟล์ให้เป็น XML
-- ระบบจะ backup API ทุกๆ 2 นาที 
+- ระบบจะ backup API ทุกๆ 1 นาที 
 - เมื่อครบวันเวลาที่กำหนด ระบบจะ compress เป็น .zip ให้อัตโนมัติ 
 - แสดงผล output ทาง Terminal
 
@@ -19,8 +19,9 @@
 Install project with npm
 
 ```bash
-  cd backupfileAPI
+  cd backupAPI-nodejs
   npm install 
+  node server.js
 ```
 ## Screenshots
 ![App Screenshot](./Screenshots/2023-11-21_13-44.png)
