@@ -8,11 +8,10 @@
 
 - **Language**
     - NodeJS
-- **libraries** 
+- **Libraries** 
     - compressing 
     - fs 
-    - node-fetch
-    - ฯลฯ
+    - node-fetchs
 
 
 ## Get Started
