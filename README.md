@@ -7,7 +7,7 @@
 ## Tech Stack in Project 
 
 - **Language**
-    - nodejs
+    - javascript(nodejs) 
 - **Libraries** 
     - compressing 
     - fs 
