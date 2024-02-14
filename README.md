@@ -1,7 +1,7 @@
 # backupAPI-nodejs
-- เป็นระบบ backup API จาก Link url โดยแปลงไฟล์ให้เป็น XML
-- ระบบจะ backup API ทุกๆ 1 นาที 
-- เมื่อครบวันเวลาที่กำหนด ระบบจะ compress เป็น .zip ให้อัตโนมัติ 
+- เป็นระบบ backup API จาก Link url 
+- ระบบสามารถ backup API ได้ตามช่วงเวลาที่กำหนด เช่น 1 ชม. 
+- เมื่อครบวันเวลาที่กำหนด ระบบจะ compressing เป็น .zip ให้อัตโนมัติ เมื่อครบวันเวลาที่กำหนด เช่น ทุกๆวันที่ 28 ของทุกเดือน
 - แสดงผล output ทาง Terminal
 
 ## Tech Stack in Project 
@@ -23,10 +23,18 @@
   node server.js
 ```
 ## Screenshots
-![App Screenshot](./Screenshots/2023-11-21_13-44.png)
-![App Screenshot](./Screenshots/2023-11-21_13-45.png)
-![App Screenshot](./Screenshots/2023-11-21_13-48.png)
 
+Backup link api
+
+![App Screenshot](./Screenshots/2.jpg)
+
+Compressing file
+
+![App Screenshot](./Screenshots/3.jpg)
+
+Output terminal
+
+![App Screenshot](./Screenshots/1.jpg)
 
 ## Used By
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/TopThiraphat)
