@@ -3,15 +3,16 @@
 - ระบบสามารถ backup API ได้ตามช่วงเวลาที่กำหนด เช่น 1 ชม. 
 - เมื่อครบวันเวลาที่กำหนด ระบบจะ compressing เป็น .zip ให้อัตโนมัติ เช่น ทุกๆวันที่ 28 ของทุกเดือน
 - แสดงผล output ทาง Terminal
+- ประโยชน์ของระบบนี้ คือ ค่อยช่วยสำรองข้อมูล link API ทำให้สามารถย้อนดูข้อมูล link ย้อนหลังได้
 
 ## Tech Stack in Project 
 
 - **Language**
-    - javascript(nodejs) 
+    - JavaScript(NodeJS) 
 - **Libraries** 
-    - compressing 
-    - fs 
-    - node-fetchs
+    - Compressing 
+    - FS 
+    - Node-Fetchs
 
 
 ## Get Started
@@ -24,15 +25,15 @@
 ```
 ## Screenshots
 
-Backup link api
+ตัวอย่าง : Backup link api
 
 ![App Screenshot](./Screenshots/2.jpg)
 
-Compressing file
+ตัวอย่าง : Compressing file
 
 ![App Screenshot](./Screenshots/3.jpg)
 
-Output terminal
+ตัวอย่าง : Output terminal
 
 ![App Screenshot](./Screenshots/1.jpg)
 
